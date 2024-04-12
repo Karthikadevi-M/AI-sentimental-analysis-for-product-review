@@ -1,0 +1,1 @@
+# AI-sentimental-analysis-for-product-review
